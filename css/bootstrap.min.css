@@ -192,7 +192,7 @@ figure{
 }
 img{
 	vertical-align:middle;
-  max-width: 100%;
+  max-width: auto;
   height: auto;
 }
 .img-responsive{
