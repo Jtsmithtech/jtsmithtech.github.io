@@ -221,9 +221,9 @@ footer{
 .relaxing {
  height:200px
 }
-img {
- width: auto; 
- max-height: 100%; 
+img.resize {
+    width:540px; /* you can use % */
+    height: auto;
 }
 #lead-content{
 	position:absolute;
