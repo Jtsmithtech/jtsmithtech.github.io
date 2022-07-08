@@ -219,12 +219,10 @@ footer{
 	overflow:hidden
 }
 .relaxing {
- height:200px
+ height:auto;
+ width:auto 
 }
-img.resize {
-    width:540px; /* you can use % */
-    height: auto;
-}
+
 #lead-content{
 	position:absolute;
 	z-index:10;
