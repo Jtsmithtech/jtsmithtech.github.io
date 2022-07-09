@@ -200,6 +200,7 @@ img{
 }
 .img-rounded{
     border-radius: 100px;
+    margin: 0 0 15px 0;
 }
 .img-thumbnail{
 	padding:4px;
