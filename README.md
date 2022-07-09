@@ -1,3 +1,7 @@
+#Original Instructions Below
+I just changed and uploaded multiple items to fit my own portfolio.  Feel free to copy the original source.
+
+
 # Dev Portfolio
 
 🚀 **[Dev Portfolio V2 has arrived. Meet Devfolio, a modern portfolio + blog template built with GatsbyJS and TailwindCSS](https://github.com/RyanFitzgerald/devfolio)** 🚀
