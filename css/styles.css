@@ -301,6 +301,10 @@ footer{
 	color:#74808a;
 	margin:0
 }
+#about br{
+	color:#74808a;
+	margin:0
+}
 #experience{
 	padding:50px 15px;
 	text-align:center;
@@ -362,10 +366,14 @@ footer{
 	font-size:0.9em;
 	margin:0
 }
+.vtimeline-content ul{
+	color:#74808a;
+	font-size:0.9em;
+	margin:0
+}
 .vtimeline-point{
 	position:relative;
-	display:block;
-	vertical-align:top;
+	display:block;;
 	margin-bottom:30px
 }
 .vtimeline-icon{
